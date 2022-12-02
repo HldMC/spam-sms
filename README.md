@@ -6,11 +6,11 @@ git clone https://github.com/HldMC/spam-sms/
 ```
 B2
 ```
-cd spam-sms
+pip install requests bs4 asciimatics
 ```
 B3
 ```
-pip install requests bs4 asciimatics
+cd spam-sms
 ```
 B4
 ```
