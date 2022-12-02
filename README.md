@@ -12,7 +12,7 @@ B3
 ```
 cd spam-sms
 ```
-B4
+B4: (đợi hơi lâu 1 chút)
 ```
 python SPAM.py
 ```
